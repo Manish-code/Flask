@@ -1,8 +1,5 @@
 # Flask 
 
-
-
-
 Introduction
 Micro Framework (Small clean and simple) for writing web application 
 Has minimal feature
